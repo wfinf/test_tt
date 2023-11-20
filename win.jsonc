@@ -1,0 +1,28 @@
+{
+    "list": [ //buradaki sıralamada gösterilir
+        {
+            "title": "How to connect",
+            "id": "ygHWtEQWWo8",
+            "v": 0,
+            "type": "y" //youtube tipinde olduğunu gösterir sonradan farklı şeyler eklenebileceği için, belki yerel elemanlar - dialoglar da eklenebilri çünkü, sistemde de bu kontrol eilir y ise yazılsın değilse yazılmasın, medium gibi
+        },
+        {
+            "title": "FlutterLab",
+            "id": "nkoHqFhqH74",
+            "v": 0,
+            "type": "y"
+        },
+        {
+            "title": "How to connect",
+            "id": "ygHWtEQWWo8",
+            "v": 0,
+            "type": "y"
+        }
+    ],
+    "htc": {
+        "title": "How to connect",
+        "id": "ygHWtEQWWo8",
+        "v": 0,
+        "type": "y"
+    }
+}
