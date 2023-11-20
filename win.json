@@ -11,6 +11,16 @@
             "type": "y"
         },
         {
+            "title": "How to use FlutterLab?",
+            "id": "htf",
+            "type": "d"
+        },
+        {
+            "title": "How to connect your Flutter app to FlutterLab?",
+            "id": "htc",
+            "type": "d"
+        },
+        {
             "title": "Material & Cupertino Icons yes see",
             "id": "yz7TyZ8wNYg",
             "type": "y"
