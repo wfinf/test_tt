@@ -10,7 +10,7 @@
             "title": "FlutterLab",
             "id": "DmObkeio6q4",
             "type": "y"
-        },   
+        },
         {
             "title": "How to use FlutterLab?",
             "id": "htf",
@@ -40,6 +40,7 @@
     "htc": {
         "title": "How to connect ssa",
         "id": "fRGs5rdvy9s",
-        "type": "y"
+        "type": "y",
+        "v": 2
     }
 }
