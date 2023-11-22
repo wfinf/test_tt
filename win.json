@@ -38,13 +38,13 @@
         }
     ],
     "vid": {
-        "htc": {
+        "htcs": {
             "title": "How to connect your Flutter app\nto FlutterLab?",
             "id": "fRGs5rdvy9s",
             "type": "y",
             "v": 2
         },
-        "hcp": {
+        "hcpa": {
             "title": "How to connect physical device?",
             "id": "XiQkeWOFwmk",
             "type": "y",
